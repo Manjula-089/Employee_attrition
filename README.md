@@ -13,7 +13,13 @@ Employee attrition has been identified as a key issue for organizations because 
 Employee attrition prediction is a crucial task for organizations as it helps them identify and mitigate the risk of losing valuable employees. 
 To solve this problem, organizations use machine learning techniques to predict employee attrition. Accurate predictions enable organizations to take action for retention or succession planning of employees.
 
-## INSTRUCTIONS
+## Instructions 
+Collection of Dataset
+Data-preprocessing
+Exploratory data analysis 
+Model development using various ML Algorithms
+create GUI 
+
 
 
 
