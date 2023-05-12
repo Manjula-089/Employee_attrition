@@ -1,13 +1,13 @@
 # Employee_attrition
 
-# Team ID: SC12
+## Team ID: SC12
 
 ## Team:
 Kavya BA          -   1CR19CS077
 K R INCHARA RAI   -   1CR19CS074
 MANJULA K         -   1CR19CS089
 
-# Abstract
+## Abstract
 
 Employee attrition has been identified as a key issue for organizations because of its adverse impact on work place productivity and long term growth strategies.
 Employee attrition prediction is a crucial task for organizations as it helps them identify and mitigate the risk of losing valuable employees. 
