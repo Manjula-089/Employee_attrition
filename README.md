@@ -17,7 +17,7 @@ To solve this problem, organizations use machine learning techniques to predict 
 - Collection of Dataset
 - Data-preprocessing
 - Exploratory data analysis 
-- Model development using various ML Algorithms
+- Model development and analysis using various ML Algorithms
 - create GUI 
 
 
